@@ -434,6 +434,8 @@ QCheckBox#HydrusWarning {
 }
 
 /*
+
+/*
 Here is more hydev added--now we have this tech, I am copying the default 'darkmode' colours in the options to all of the darkmode stylesheets so the default choice for new users isn't the dark/light jank-mix. Stylesheet authors are welcome to fix this up with better colours for their particular style and send them in.
 */
 
