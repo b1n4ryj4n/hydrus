@@ -309,7 +309,7 @@ QWidget#HydrusMediaList {
     qproperty-hmrp_background: #2D1F2D;
     qproperty-hmrp_thumbnail_local_background_normal: #2D1F2D;
     qproperty-hmrp_thumbnail_local_border_normal: #8E4585;
-    qproperty-hmrp_thumbnail_local_background_selected: #2D1F2D;
+    qproperty-hmrp_thumbnail_local_background_selected: #8E4585;
     qproperty-hmrp_thumbnail_local_border_selected: #6B3A65;
     qproperty-hmrp_thumbnail_not_local_background_normal: #400d02;
     qproperty-hmrp_thumbnail_not_local_border_normal: #f8d0cc;
